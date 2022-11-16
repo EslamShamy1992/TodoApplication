@@ -1,0 +1,17 @@
+com\qacart\todo\API\TasksApi.class
+com\qacart\todo\factory\Driverfactory.class
+com\qacart\todo\pages\NewtodoPage.class
+com\qacart\todo\utils\UserUtils.class
+com\qacart\todo\API\RegisterApi.class
+com\qacart\todo\testcases\todoTest.class
+com\qacart\todo\objects\Task.class
+com\qacart\todo\objects\User.class
+com\qacart\todo\utils\PropertiesUtils.class
+com\qacart\todo\testcases\loginTest.class
+com\qacart\todo\utils\CookieUtils.class
+com\qacart\todo\config\EndPoint.class
+com\qacart\todo\utils\ConfigUtils.class
+com\qacart\todo\base\basePage.class
+com\qacart\todo\base\baseTest.class
+com\qacart\todo\pages\loginPage.class
+com\qacart\todo\pages\TodoPage.class
